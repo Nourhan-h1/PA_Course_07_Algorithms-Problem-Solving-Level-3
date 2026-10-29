@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------
+# C++ / Visual Studio (Windows) - educational repository
+# ---------------------------------------------------------------
+
+# Visual Studio local state and caches
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ipch/
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+.vscode/
+CMakeUserPresets.json
+
+# Build output folders
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+out/
+build/
+
+# Compiler / linker intermediates and outputs
+*.obj
+*.o
+*.pch
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+*.iobj
+*.ipdb
+*.exe
+*.dll
+*.log
+
+# Runtime data created by the client programs (Problems 47-51, Projects 01-02)
+Clients.txt
+
+# Stray file named "0": created when a program run as `app.exe > 0` or
+# "pause>0" is redirected from a shell; contains only
+# "Press any key to continue . . ."
+0
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
